@@ -1,7 +1,7 @@
 # Seminar_Paper_List
 Here we share the paper we discussed in weekly seminar
 
-# Week 4: (13-10-17)
+# Week 4: (13-10-17, 20-10-17)
 
 1. NO Need to Worry about Adversarial Examples in Object Detection in Autonomous Vehicles
 
