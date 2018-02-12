@@ -1,6 +1,12 @@
 # Seminar_Paper_List
 Here we share the paper we discussed in weekly seminar
 
+# Week 7: (07-02-18)
+
+1. Densely Connected Convolutional Networks
+
+2. DSOD: Learning Deeply Supervised Object Detectors from Scratch
+
 # Week 6: (27-10-17)
 
 1. Deep Learning using Linear Support Vector Machines
